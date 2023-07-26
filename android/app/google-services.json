@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1036689460058",
+    "project_id": "fir-video-64242",
+    "storage_bucket": "fir-video-64242.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036689460058:android:3616949f65bcf51ad38163",
+        "android_client_info": {
+          "package_name": "com.example.videokit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036689460058-l2pfm0o8oejgouvb2k2v9ks49ghlq616.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPHPWKcsRELyInT7c0yT2gNm36dmf_lYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036689460058-4k96oo12rd922os20s7va4cblf6n2l33.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1036689460058-r6iheciu63t0hvk6if0n7gpgog50or96.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.videokit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
